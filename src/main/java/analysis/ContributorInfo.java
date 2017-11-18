@@ -4,13 +4,16 @@ public class ContributorInfo {
 
     private String name;
     private String profileURL;
-    private String email;
     private int amountOfCommits;
 
-    public ContributorInfo(String name, String profileURL, String email, int amountOfCommits) {
+    /**
+     * This class provides information about a person that makes contributions to repository.
+     */
+    public ContributorInfo() {}
+
+    public ContributorInfo(String name, String profileURL, int amountOfCommits) {
         this.name = name;
         this.profileURL = profileURL;
-        this.email = email;
         this.amountOfCommits = amountOfCommits;
     }
 
@@ -30,14 +33,6 @@ public class ContributorInfo {
         this.profileURL = profileURL;
     }
 
-    public String getEmail() {
-        return email;
-    }
-
-    public void setEmail(String email) {
-        this.email = email;
-    }
-
     public int getAmountOfCommits() {
         return amountOfCommits;
     }
@@ -49,10 +44,10 @@ public class ContributorInfo {
     @Override
     public String toString() {
         StringBuilder contributorInfo = new StringBuilder();
-        contributorInfo.append(name)
-                       .append("\n\tProfile URL: ").append(profileURL)
-                       .append("\n\tEmail: ").append(email)
-                       .append("\n\tNumber of commits: ").append(amountOfCommits);
+        contributorInfo.append("\n\t\t\t").append(name)
+                       .append("\n\t\t\tProfile URL: ").append(profileURL)
+                       .append("\n\t\t\tNumber of commits: ").append(amountOfCommits)
+                       .append("\n\t\t\t");
 
         return contributorInfo.toString();
     }

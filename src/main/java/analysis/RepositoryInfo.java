@@ -2,6 +2,9 @@ package analysis;
 
 import java.util.ArrayList;
 
+/**
+ * This class provides information about repository.
+ */
 public class RepositoryInfo {
 
     private String name;
@@ -9,16 +12,17 @@ public class RepositoryInfo {
     private String description;
     private String language;
     private int amountOfStars;
-    private int amountOfCommits;
     private ArrayList<ContributorInfo> contributors;
+    private int totalCommits;
 
-    public RepositoryInfo(String name, String url, String description, String language, int amountOfStars, int amountOfCommits) {
+    public RepositoryInfo() {}
+
+    public RepositoryInfo(String name, String url, String description, String language, int amountOfStars) {
         this.name = name;
         this.url = url;
         this.description = description;
         this.language = language;
         this.amountOfStars = amountOfStars;
-        this.amountOfCommits = amountOfCommits;
     }
 
     public String getName() {
@@ -61,14 +65,6 @@ public class RepositoryInfo {
         this.amountOfStars = amountOfStars;
     }
 
-    public int getAmountOfCommits() {
-        return amountOfCommits;
-    }
-
-    public void setAmountOfCommits(int amountOfCommits) {
-        this.amountOfCommits = amountOfCommits;
-    }
-
     public ArrayList<ContributorInfo> getContributors() {
         return contributors;
     }
@@ -77,17 +73,26 @@ public class RepositoryInfo {
         this.contributors = contributors;
     }
 
+    public int getTotalCommits() {
+        return totalCommits;
+    }
+
+    public void setTotalCommits(int totalCommits) {
+        this.totalCommits = totalCommits;
+    }
+
     @Override
     public String toString() {
         StringBuilder repositoryInfo = new StringBuilder();
-        repositoryInfo.append("Repository name: ").append(name.toUpperCase())
+        repositoryInfo.append("REPOSITORY NAME: ").append(name)
                                                   .append("\n\tURL: ").append(url)
                                                   .append("\n\tDescription: ").append(description)
                                                   .append("\n\tLanguage: ").append(language)
                                                   .append("\n\tStars: ").append(amountOfStars)
-                                                  .append("\n\tNumber of commits: ").append(amountOfCommits)
+                                                  .append("\n\tCommits: ").append(totalCommits)
                                                   .append("\n\tTop contributors: ").append(contributors);
 
         return repositoryInfo.toString();
     }
+
 }
