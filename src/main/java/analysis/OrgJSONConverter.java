@@ -20,7 +20,7 @@ public class OrgJSONConverter {
      * Token is set second time because we have to make another connection while creating the list of repository contributors.
      * @see OrgJSONConverter#getAllContributors(String)
      */
-    private final static String token = "afd599b6d6536776169ab509c38e02feae0053d3";
+    private final static String token = "1ed25ab18f61fb7baa9fa58c5a3c90e9ac0baaa1";
 
     public ArrayList<RepositoryInfo> computeMostStarredRepos(String jsonString) throws URISyntaxException, IOException {
         int repCounter = 0;

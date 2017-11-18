@@ -18,7 +18,7 @@ import java.util.ArrayList;
  * This class provides methods for computing most starred and most committed repositories.
  */
 public class GitHubAPI {
-    private final String token = "afd599b6d6536776169ab509c38e02feae0053d3";
+    private final String token = "1ed25ab18f61fb7baa9fa58c5a3c90e9ac0baaa1";
     private URI uri;
 
     public ArrayList<RepositoryInfo> getMostStarredRepos(String sinceYYYYMMDD, String untilYYYYMMDD) {
