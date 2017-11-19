@@ -4,6 +4,8 @@ import analysis.ContributorInfo;
 import analysis.RepositoryInfo;
 import org.junit.Test;
 
+import java.io.ByteArrayOutputStream;
+import java.io.PrintStream;
 import java.lang.reflect.Field;
 import java.util.ArrayList;
 
@@ -155,4 +157,29 @@ public class RepositoryInfoTest {
         assertNotNull(repositoryInfo);
     }
 
+    @Test
+    public void testToString() {
+        ContributorInfo contributor = new ContributorInfo("contName", "contURL", 1000);
+        ArrayList<ContributorInfo> contributorInfoArrayList = new ArrayList<>();
+        contributorInfoArrayList.add(contributor);
+        RepositoryInfo repository = new RepositoryInfo("name", "url", "desc", "lang",10);
+        repository.setContributors(contributorInfoArrayList);
+        repository.setTotalCommits(50);
+        ByteArrayOutputStream outContent = new ByteArrayOutputStream();
+        System.setOut(new PrintStream(outContent));
+        System.out.println(repository.toString());
+        String expected = new StringBuilder().append("REPOSITORY NAME: name")
+                .append("\n\tURL: url")
+                .append("\n\tDescription: desc")
+                .append("\n\tLanguage: lang")
+                .append("\n\tStars: ").append(10)
+                .append("\n\tCommits: ").append(50)
+                .append("\n\tTop contributors: [").append(new StringBuilder().append("\n\t\t\t").append("contName")
+                        .append("\n\t\t\tProfile URL: ").append("contURL")
+                        .append("\n\t\t\tNumber of commits: ").append(1000)
+                        .append("\n\t\t\t]").toString())
+                .toString();
+        String actualResult = outContent.toString().trim().replace("\r","");
+        assertEquals(expected, actualResult);
+    }
 }

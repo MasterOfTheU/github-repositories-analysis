@@ -70,4 +70,5 @@ public class ContributorInfoTest {
         ContributorInfo contributorInfo = new ContributorInfo("testName", "testUrl", 12);
         assertNotNull(contributorInfo);
     }
+
 }
