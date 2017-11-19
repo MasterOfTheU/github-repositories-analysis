@@ -29,7 +29,7 @@ public class Metrics {
      * Prints the name of recently executed method.
      * @param methodName Gets the name of the executed method.
      */
-    protected static void printMethodName(String methodName) {
+    public static void printMethodName(String methodName) {
         System.out.printf("%s() has executed.\n", methodName);
     }
 

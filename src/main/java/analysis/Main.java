@@ -8,7 +8,7 @@ public class Main {
         analyseRepositories();
     }
 
-    public static void analyseRepositories() {
+    public static boolean analyseRepositories() {
         startMetrics();
         String methodName = Thread.currentThread().getStackTrace()[1].getMethodName();
         GitHubAPI githubAPIEntity = new GitHubAPI();
@@ -18,6 +18,7 @@ public class Main {
         printMethodName(methodName);
         stopMetrics();
         gatherPerformance(methodName);
+        return true;
     }
 
 }
