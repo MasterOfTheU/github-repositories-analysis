@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testing.GitHubAPITest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-11-19T09:20:13" hostname="brain" time="59.012">
+<testsuite name="testing.GitHubAPITest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-11-19T09:31:01" hostname="brain" time="57.692">
   <properties/>
-  <testcase name="getMostStarredRepos" classname="testing.GitHubAPITest" time="16.39"/>
-  <testcase name="getMostCommittedRepos" classname="testing.GitHubAPITest" time="41.455"/>
-  <testcase name="uriIsValidMostCommited" classname="testing.GitHubAPITest" time="0.581"/>
-  <testcase name="outContentIsEmpty" classname="testing.GitHubAPITest" time="0.586"/>
+  <testcase name="getMostStarredRepos" classname="testing.GitHubAPITest" time="16.248"/>
+  <testcase name="getMostCommittedRepos" classname="testing.GitHubAPITest" time="40.278"/>
+  <testcase name="uriIsValidMostCommitted" classname="testing.GitHubAPITest" time="0.609"/>
+  <testcase name="outContentIsEmpty" classname="testing.GitHubAPITest" time="0.556"/>
   <system-out><![CDATA[https://api.github.com/search/repositories?q=created%3A2014-06-02..2014-06-10&sort=stars&order=desc
 REPOSITORY NAME: kubernetes/kubernetes
 	URL: https://github.com/kubernetes/kubernetes

@@ -1,1094 +1,552 @@
-
-	ehttps://api.github.com/search/repositories?q=created%3A2014-06-02..2014-06-10&sort=stars&order=desc
-
-	'REPOSITORY NAME: kubernetes/kubernetes
-
-	/	URL: https://github.com/kubernetes/kubernetes
-
-	C	Description: Production-Grade Container Scheduling and Management
-
-		Language: Go
-
-		Stars: 29038
-
-		Commits: 37023
-
-		Top contributors: [
-
-				k8s-merge-robot
-
-	3			Profile URL: https://github.com/k8s-merge-robot
-
-				Number of commits: 15390
-
-				, 
-
-				brendandburns
-
-	1			Profile URL: https://github.com/brendandburns
-
-				Number of commits: 1794
-
-				, 
-
-				lavalamp
-
-	,			Profile URL: https://github.com/lavalamp
-
-				Number of commits: 1506
-
-				, 
-
-				smarterclayton
-
-	2			Profile URL: https://github.com/smarterclayton
-
-				Number of commits: 1409
-
-				, 
-
-				thockin
-
-	+			Profile URL: https://github.com/thockin
-
-				Number of commits: 1336
-
-				]
-
-	DREPOSITORY NAME: numbbbbb/the-swift-programming-language-in-chinese
-
-	L	URL: https://github.com/numbbbbb/the-swift-programming-language-in-chinese
-
-	D	Description: ??? Apple ?? Swift ???The Swift Programming Language?
-
-		Language: CSS
-
-		Stars: 17460
-
-		Commits: 1486
-
-		Top contributors: [
-
-				numbbbbb
-
-	,			Profile URL: https://github.com/numbbbbb
-
-				Number of commits: 556
-
-				, 
-
-				stanzhai
-
-	,			Profile URL: https://github.com/stanzhai
-
-				Number of commits: 102
-
-				, 
-
-				overtrue
-
-	,			Profile URL: https://github.com/overtrue
-
-				Number of commits: 85
-
-				, 
-
-				949478479
-
-	-			Profile URL: https://github.com/949478479
-
-				Number of commits: 69
-
-				, 
-
-				coverxit
-
-	,			Profile URL: https://github.com/coverxit
-
-				Number of commits: 65
-
-				]
-
-	!REPOSITORY NAME: SnapKit/SnapKit
-
-	)	URL: https://github.com/SnapKit/SnapKit
-
-	4	Description: A Swift Autolayout DSL for iOS & OS X
-
-		Language: Swift
-
-		Stars: 11299
-
-		Commits: 434
-
-		Top contributors: [
-
-				robertjpayne
-
-	0			Profile URL: https://github.com/robertjpayne
-
-				Number of commits: 362
-
-				, 
-
-				cloudkite
-
-	-			Profile URL: https://github.com/cloudkite
-
-				Number of commits: 7
-
-				, 
-
-				sger
-
-	(			Profile URL: https://github.com/sger
-
-				Number of commits: 7
-
-				, 
-
-				aleffert
-
-	,			Profile URL: https://github.com/aleffert
-
-				Number of commits: 6
-
-				, 
-
-				bendjones
-
-	-			Profile URL: https://github.com/bendjones
-
-				Number of commits: 6
-
-				]
-
-	$REPOSITORY NAME: cayleygraph/cayley
-
-	,	URL: https://github.com/cayleygraph/cayley
-
-	,	Description: An open-source graph database
-
-		Language: Go
-
-		Stars: 10659
-
-		Commits: 1054
-
-		Top contributors: [
-
-				barakmich
-
-	-			Profile URL: https://github.com/barakmich
-
-				Number of commits: 427
-
-				, 
-
-	
+ehttps://api.github.com/search/repositories?q=created%3A2014-06-02..2014-06-10&sort=stars&order=desc
+'REPOSITORY NAME: kubernetes/kubernetes
+/	URL: https://github.com/kubernetes/kubernetes
+C	Description: Production-Grade Container Scheduling and Management
+	Language: Go
+	Stars: 29038
+	Commits: 37023
+	Top contributors: [
+			k8s-merge-robot
+3			Profile URL: https://github.com/k8s-merge-robot
+			Number of commits: 15390
+			, 
+			brendandburns
+1			Profile URL: https://github.com/brendandburns
+			Number of commits: 1794
+			, 
+			lavalamp
+,			Profile URL: https://github.com/lavalamp
+			Number of commits: 1506
+			, 
+			smarterclayton
+2			Profile URL: https://github.com/smarterclayton
+			Number of commits: 1409
+			, 
+			thockin
++			Profile URL: https://github.com/thockin
+			Number of commits: 1336
+			]
+DREPOSITORY NAME: numbbbbb/the-swift-programming-language-in-chinese
+L	URL: https://github.com/numbbbbb/the-swift-programming-language-in-chinese
+D	Description: ??? Apple ?? Swift ???The Swift Programming Language?
+	Language: CSS
+	Stars: 17460
+	Commits: 1486
+	Top contributors: [
+			numbbbbb
+,			Profile URL: https://github.com/numbbbbb
+			Number of commits: 556
+			, 
+			stanzhai
+,			Profile URL: https://github.com/stanzhai
+			Number of commits: 102
+			, 
+			overtrue
+,			Profile URL: https://github.com/overtrue
+			Number of commits: 85
+			, 
+			949478479
+-			Profile URL: https://github.com/949478479
+			Number of commits: 69
+			, 
+			coverxit
+,			Profile URL: https://github.com/coverxit
+			Number of commits: 65
+			]
+!REPOSITORY NAME: SnapKit/SnapKit
+)	URL: https://github.com/SnapKit/SnapKit
+4	Description: A Swift Autolayout DSL for iOS & OS X
+	Language: Swift
+	Stars: 11299
+	Commits: 434
+	Top contributors: [
+			robertjpayne
+0			Profile URL: https://github.com/robertjpayne
+			Number of commits: 362
+			, 
+			cloudkite
+-			Profile URL: https://github.com/cloudkite
+			Number of commits: 7
+			, 
+			sger
+(			Profile URL: https://github.com/sger
+			Number of commits: 7
+			, 
+			aleffert
+,			Profile URL: https://github.com/aleffert
+			Number of commits: 6
+			, 
+			bendjones
+-			Profile URL: https://github.com/bendjones
+			Number of commits: 6
+			]
+$REPOSITORY NAME: cayleygraph/cayley
+,	URL: https://github.com/cayleygraph/cayley
+,	Description: An open-source graph database
+	Language: Go
+	Stars: 10659
+	Commits: 1054
+	Top contributors: [
+			barakmich
+-			Profile URL: https://github.com/barakmich
+			Number of commits: 427
+			, 
+
 			dennwc
-
-	*			Profile URL: https://github.com/dennwc
-
-				Number of commits: 248
-
-				, 
-
-				kortschak
-
-	-			Profile URL: https://github.com/kortschak
-
-				Number of commits: 185
-
-				, 
-
-				andrew-d
-
-	,			Profile URL: https://github.com/andrew-d
-
-				Number of commits: 41
-
-				, 
-
-				robertmeta
-
-	.			Profile URL: https://github.com/robertmeta
-
-				Number of commits: 40
-
-				]
-
-	)REPOSITORY NAME: dzenbot/DZNEmptyDataSet
-
-	1	URL: https://github.com/dzenbot/DZNEmptyDataSet
-
-	ê	Description: A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display
-
-		Language: Objective-C
-
-		Stars: 9445
-
-		Commits: 425
-
-		Top contributors: [
-
-				dzenbot
-
-	+			Profile URL: https://github.com/dzenbot
-
-				Number of commits: 357
-
-				, 
-
-				WenchaoD
-
-	,			Profile URL: https://github.com/WenchaoD
-
-				Number of commits: 16
-
-				, 
-
-				ekurutepe
-
-	-			Profile URL: https://github.com/ekurutepe
-
-				Number of commits: 6
-
-				, 
-
-				bartvandendriessche
-
-	7			Profile URL: https://github.com/bartvandendriessche
-
-				Number of commits: 4
-
-				, 
-
-				streeter
-
-	,			Profile URL: https://github.com/streeter
-
-				Number of commits: 4
-
-				]
-
-	)REPOSITORY NAME: fullstackio/FlappySwift
-
-	1	URL: https://github.com/fullstackio/FlappySwift
-
-	L	Description: swift implementation of flappy bird. More at fullstackedu.com
-
-		Language: Swift
-
-		Stars: 8523
-
-		Commits: 63
-
-		Top contributors: [
-
-				jashmenn
-
-	,			Profile URL: https://github.com/jashmenn
-
-				Number of commits: 29
-
-				, 
-
-				MaddTheSane
-
-	/			Profile URL: https://github.com/MaddTheSane
-
-				Number of commits: 9
-
-				, 
-
-	
+*			Profile URL: https://github.com/dennwc
+			Number of commits: 248
+			, 
+			kortschak
+-			Profile URL: https://github.com/kortschak
+			Number of commits: 185
+			, 
+			andrew-d
+,			Profile URL: https://github.com/andrew-d
+			Number of commits: 41
+			, 
+			robertmeta
+.			Profile URL: https://github.com/robertmeta
+			Number of commits: 40
+			]
+)REPOSITORY NAME: dzenbot/DZNEmptyDataSet
+1	URL: https://github.com/dzenbot/DZNEmptyDataSet
+ê	Description: A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display
+	Language: Objective-C
+	Stars: 9445
+	Commits: 425
+	Top contributors: [
+			dzenbot
++			Profile URL: https://github.com/dzenbot
+			Number of commits: 357
+			, 
+			WenchaoD
+,			Profile URL: https://github.com/WenchaoD
+			Number of commits: 16
+			, 
+			ekurutepe
+-			Profile URL: https://github.com/ekurutepe
+			Number of commits: 6
+			, 
+			bartvandendriessche
+7			Profile URL: https://github.com/bartvandendriessche
+			Number of commits: 4
+			, 
+			streeter
+,			Profile URL: https://github.com/streeter
+			Number of commits: 4
+			]
+)REPOSITORY NAME: fullstackio/FlappySwift
+1	URL: https://github.com/fullstackio/FlappySwift
+L	Description: swift implementation of flappy bird. More at fullstackedu.com
+	Language: Swift
+	Stars: 8523
+	Commits: 63
+	Top contributors: [
+			jashmenn
+,			Profile URL: https://github.com/jashmenn
+			Number of commits: 29
+			, 
+			MaddTheSane
+/			Profile URL: https://github.com/MaddTheSane
+			Number of commits: 9
+			, 
+
 			pawurb
-
-	*			Profile URL: https://github.com/pawurb
-
-				Number of commits: 9
-
-				, 
-
-					auser
-
-	)			Profile URL: https://github.com/auser
-
-				Number of commits: 2
-
-				, 
-
-				DmitriyKirakosyan
-
-	5			Profile URL: https://github.com/DmitriyKirakosyan
-
-				Number of commits: 2
-
-				]
-
-	1REPOSITORY NAME: raywenderlich/swift-style-guide
-
-	9	URL: https://github.com/raywenderlich/swift-style-guide
-
-	D	Description: The official Swift style guide for raywenderlich.com.
-
-	&	Language: Language is not specified.
-
-		Stars: 7942
-
-		Commits: 273
-
-		Top contributors: [
-
-	
+*			Profile URL: https://github.com/pawurb
+			Number of commits: 9
+			, 
+				auser
+)			Profile URL: https://github.com/auser
+			Number of commits: 2
+			, 
+			DmitriyKirakosyan
+5			Profile URL: https://github.com/DmitriyKirakosyan
+			Number of commits: 2
+			]
+1REPOSITORY NAME: raywenderlich/swift-style-guide
+9	URL: https://github.com/raywenderlich/swift-style-guide
+D	Description: The official Swift style guide for raywenderlich.com.
+&	Language: Language is not specified.
+	Stars: 7942
+	Commits: 273
+	Top contributors: [
+
 			rayfix
-
-	*			Profile URL: https://github.com/rayfix
-
-				Number of commits: 118
-
-				, 
-
-				gregheo
-
-	+			Profile URL: https://github.com/gregheo
-
-				Number of commits: 70
-
-				, 
-
-				mrahmiao
-
-	,			Profile URL: https://github.com/mrahmiao
-
-				Number of commits: 17
-
-				, 
-
-	
+*			Profile URL: https://github.com/rayfix
+			Number of commits: 118
+			, 
+			gregheo
++			Profile URL: https://github.com/gregheo
+			Number of commits: 70
+			, 
+			mrahmiao
+,			Profile URL: https://github.com/mrahmiao
+			Number of commits: 17
+			, 
+
 			jawwad
-
-	*			Profile URL: https://github.com/jawwad
-
-				Number of commits: 15
-
-				, 
-
-				ColinEberhardt
-
-	2			Profile URL: https://github.com/ColinEberhardt
-
-				Number of commits: 13
-
-				]
-
-	REPOSITORY NAME: Quick/Quick
-
-	%	URL: https://github.com/Quick/Quick
-
-	=	Description: The Swift (and Objective-C) testing framework.
-
-		Language: Swift
-
-		Stars: 7036
-
-		Commits: 1190
-
-		Top contributors: [
-
-				modocache
-
-	-			Profile URL: https://github.com/modocache
-
-				Number of commits: 420
-
-				, 
-
-					jeffh
-
-	)			Profile URL: https://github.com/jeffh
-
-				Number of commits: 149
-
-				, 
-
-	
+*			Profile URL: https://github.com/jawwad
+			Number of commits: 15
+			, 
+			ColinEberhardt
+2			Profile URL: https://github.com/ColinEberhardt
+			Number of commits: 13
+			]
+REPOSITORY NAME: Quick/Quick
+%	URL: https://github.com/Quick/Quick
+=	Description: The Swift (and Objective-C) testing framework.
+	Language: Swift
+	Stars: 7036
+	Commits: 1190
+	Top contributors: [
+			modocache
+-			Profile URL: https://github.com/modocache
+			Number of commits: 420
+			, 
+				jeffh
+)			Profile URL: https://github.com/jeffh
+			Number of commits: 149
+			, 
+
 			ikesyo
-
-	*			Profile URL: https://github.com/ikesyo
-
-				Number of commits: 96
-
-				, 
-
-				wongzigii
-
-	-			Profile URL: https://github.com/wongzigii
-
-				Number of commits: 55
-
-				, 
-
-				briancroom
-
-	.			Profile URL: https://github.com/briancroom
-
-				Number of commits: 41
-
-				]
-
-	!REPOSITORY NAME: google/cadvisor
-
-	)	URL: https://github.com/google/cadvisor
-
-	]	Description: Analyzes resource usage and performance characteristics of running containers.
-
-		Language: Go
-
-		Stars: 6438
-
-		Commits: 2049
-
-		Top contributors: [
-
-				vmarmol
-
-	+			Profile URL: https://github.com/vmarmol
-
-				Number of commits: 554
-
-				, 
-
-				rjnagal
-
-	+			Profile URL: https://github.com/rjnagal
-
-				Number of commits: 330
-
-				, 
-
-					vishh
-
-	)			Profile URL: https://github.com/vishh
-
-				Number of commits: 285
-
-				, 
-
-				monnand
-
-	+			Profile URL: https://github.com/monnand
-
-				Number of commits: 221
-
-				, 
-
-				tallclair
-
-	-			Profile URL: https://github.com/tallclair
-
-				Number of commits: 181
-
-				]
-
-	!REPOSITORY NAME: pi-hole/pi-hole
-
-	)	URL: https://github.com/pi-hole/pi-hole
-
-	7	Description: A black hole for Internet advertisements
-
-		Language: Shell
-
-		Stars: 6038
-
-		Commits: 2136
-
-		Top contributors: [
-
-				dschaper
-
-	,			Profile URL: https://github.com/dschaper
-
-				Number of commits: 642
-
-				, 
-
-				PromoFaux
-
-	-			Profile URL: https://github.com/PromoFaux
-
-				Number of commits: 583
-
-				, 
-
-					DL6ER
-
-	)			Profile URL: https://github.com/DL6ER
-
-				Number of commits: 326
-
-				, 
-
-	
+*			Profile URL: https://github.com/ikesyo
+			Number of commits: 96
+			, 
+			wongzigii
+-			Profile URL: https://github.com/wongzigii
+			Number of commits: 55
+			, 
+			briancroom
+.			Profile URL: https://github.com/briancroom
+			Number of commits: 41
+			]
+!REPOSITORY NAME: google/cadvisor
+)	URL: https://github.com/google/cadvisor
+]	Description: Analyzes resource usage and performance characteristics of running containers.
+	Language: Go
+	Stars: 6438
+	Commits: 2049
+	Top contributors: [
+			vmarmol
++			Profile URL: https://github.com/vmarmol
+			Number of commits: 554
+			, 
+			rjnagal
++			Profile URL: https://github.com/rjnagal
+			Number of commits: 330
+			, 
+				vishh
+)			Profile URL: https://github.com/vishh
+			Number of commits: 285
+			, 
+			monnand
++			Profile URL: https://github.com/monnand
+			Number of commits: 221
+			, 
+			tallclair
+-			Profile URL: https://github.com/tallclair
+			Number of commits: 181
+			]
+!REPOSITORY NAME: pi-hole/pi-hole
+)	URL: https://github.com/pi-hole/pi-hole
+7	Description: A black hole for Internet advertisements
+	Language: Shell
+	Stars: 6038
+	Commits: 2136
+	Top contributors: [
+			dschaper
+,			Profile URL: https://github.com/dschaper
+			Number of commits: 642
+			, 
+			PromoFaux
+-			Profile URL: https://github.com/PromoFaux
+			Number of commits: 583
+			, 
+				DL6ER
+)			Profile URL: https://github.com/DL6ER
+			Number of commits: 326
+			, 
+
 			Mcat12
-
-	*			Profile URL: https://github.com/Mcat12
-
-				Number of commits: 146
-
-				, 
-
-				jacobsalmela
-
-	0			Profile URL: https://github.com/jacobsalmela
-
-				Number of commits: 98
-
-				]
-
-Ohttps://api.github.com/search/repositories?q=created%3A2012-06-02..2012-06-10
-
-REPOSITORY NAME: NixOS/nixpkgs
-
-'	URL: https://github.com/NixOS/nixpkgs
-
-&	Description: Nix Packages collection
-
-	Language: Nix
-
-	Stars: 2014
-
-	Commits: 75006
-
-	Top contributors: [
-
-			peti
-
-(			Profile URL: https://github.com/peti
-
-			Number of commits: 14495
-
-			, 
-
-			edolstra
-
-,			Profile URL: https://github.com/edolstra
-
-			Number of commits: 11920
-
-			, 
-
-			7c6f434c
-
-,			Profile URL: https://github.com/7c6f434c
-
-			Number of commits: 4365
-
-			, 
-
-
+*			Profile URL: https://github.com/Mcat12
+			Number of commits: 146
+			, 
+			jacobsalmela
+0			Profile URL: https://github.com/jacobsalmela
+			Number of commits: 98
+			]
+Ohttps://api.github.com/search/repositories?q=created%3A2012-06-02..2012-06-10
+REPOSITORY NAME: NixOS/nixpkgs
+'	URL: https://github.com/NixOS/nixpkgs
+&	Description: Nix Packages collection
+	Language: Nix
+	Stars: 2014
+	Commits: 75006
+	Top contributors: [
+			peti
+(			Profile URL: https://github.com/peti
+			Number of commits: 14495
+			, 
+			edolstra
+,			Profile URL: https://github.com/edolstra
+			Number of commits: 11920
+			, 
+			7c6f434c
+,			Profile URL: https://github.com/7c6f434c
+			Number of commits: 4365
+			, 
+
 			vcunat
-
-*			Profile URL: https://github.com/vcunat
-
-			Number of commits: 3881
-
-			, 
-
-			domenkozar
-
-.			Profile URL: https://github.com/domenkozar
-
-			Number of commits: 2620
-
-			]
-
-#REPOSITORY NAME: HabitRPG/habitica
-
-+	URL: https://github.com/HabitRPG/habitica
-
-T	Description: A habit tracker app which treats your goals like a Role Playing Game.
-
-	Language: JavaScript
-
-	Stars: 5419
-
-	Commits: 14798
-
-	Top contributors: [
-
-			lefnire
-
-+			Profile URL: https://github.com/lefnire
-
-			Number of commits: 4436
-
-			, 
-
-			crookedneighbor
-
-3			Profile URL: https://github.com/crookedneighbor
-
-			Number of commits: 2910
-
-			, 
-
-			paglias
-
-+			Profile URL: https://github.com/paglias
-
-			Number of commits: 2329
-
-			, 
-
-			SabreCat
-
-,			Profile URL: https://github.com/SabreCat
-
-			Number of commits: 2072
-
-			, 
-
-			Alys
-
-(			Profile URL: https://github.com/Alys
-
-			Number of commits: 870
-
-			]
-
-%REPOSITORY NAME: illuminate/database
-
--	URL: https://github.com/illuminate/database
-
-e	Description: [READ ONLY] Subtree split of the Illuminate Database component (see laravel/framework)
-
-	Language: PHP
-
-	Stars: 1241
-
-	Commits: 2984
-
-	Top contributors: [
-
-			taylorotwell
-
-0			Profile URL: https://github.com/taylorotwell
-
-			Number of commits: 2087
-
-			, 
-
-			GrahamCampbell
-
-2			Profile URL: https://github.com/GrahamCampbell
-
-			Number of commits: 268
-
-			, 
-
-			themsaid
-
-,			Profile URL: https://github.com/themsaid
-
-			Number of commits: 110
-
-			, 
-
-			JosephSilber
-
-0			Profile URL: https://github.com/JosephSilber
-
-			Number of commits: 85
-
-			, 
-
-			lucasmichot
-
-/			Profile URL: https://github.com/lucasmichot
-
-			Number of commits: 70
-
-			]
-
-%REPOSITORY NAME: phpseclib/phpseclib
-
--	URL: https://github.com/phpseclib/phpseclib
-
-0	Description: PHP Secure Communications Library
-
-	Language: PHP
-
-	Stars: 1541
-
-	Commits: 2680
-
-	Top contributors: [
-
-			terrafrost
-
-.			Profile URL: https://github.com/terrafrost
-
-			Number of commits: 1613
-
-			, 
-
-				bantu
-
-)			Profile URL: https://github.com/bantu
-
-			Number of commits: 869
-
-			, 
-
-			petrich
-
-+			Profile URL: https://github.com/petrich
-
-			Number of commits: 53
-
-			, 
-
-			GrahamCampbell
-
-2			Profile URL: https://github.com/GrahamCampbell
-
-			Number of commits: 24
-
-			, 
-
-			mpscholten
-
-.			Profile URL: https://github.com/mpscholten
-
-			Number of commits: 18
-
-			]
-
-,REPOSITORY NAME: thephpleague/oauth2-server
-
-4	URL: https://github.com/thephpleague/oauth2-server
-
-G	Description: A spec compliant, secure by default PHP OAuth 2.0 Server
-
-	Language: PHP
-
-	Stars: 3230
-
-	Commits: 1897
-
-	Top contributors: [
-
-			alexbilbie
-
-.			Profile URL: https://github.com/alexbilbie
-
-			Number of commits: 1686
-
-			, 
-
-			juliangut
-
--			Profile URL: https://github.com/juliangut
-
-			Number of commits: 56
-
-			, 
-
-			Sephster
-
-,			Profile URL: https://github.com/Sephster
-
-			Number of commits: 44
-
-			, 
-
-
+*			Profile URL: https://github.com/vcunat
+			Number of commits: 3881
+			, 
+			domenkozar
+.			Profile URL: https://github.com/domenkozar
+			Number of commits: 2620
+			]
+#REPOSITORY NAME: HabitRPG/habitica
++	URL: https://github.com/HabitRPG/habitica
+T	Description: A habit tracker app which treats your goals like a Role Playing Game.
+	Language: JavaScript
+	Stars: 5419
+	Commits: 14798
+	Top contributors: [
+			lefnire
++			Profile URL: https://github.com/lefnire
+			Number of commits: 4436
+			, 
+			crookedneighbor
+3			Profile URL: https://github.com/crookedneighbor
+			Number of commits: 2910
+			, 
+			paglias
++			Profile URL: https://github.com/paglias
+			Number of commits: 2329
+			, 
+			SabreCat
+,			Profile URL: https://github.com/SabreCat
+			Number of commits: 2072
+			, 
+			Alys
+(			Profile URL: https://github.com/Alys
+			Number of commits: 870
+			]
+%REPOSITORY NAME: illuminate/database
+-	URL: https://github.com/illuminate/database
+e	Description: [READ ONLY] Subtree split of the Illuminate Database component (see laravel/framework)
+	Language: PHP
+	Stars: 1241
+	Commits: 2984
+	Top contributors: [
+			taylorotwell
+0			Profile URL: https://github.com/taylorotwell
+			Number of commits: 2087
+			, 
+			GrahamCampbell
+2			Profile URL: https://github.com/GrahamCampbell
+			Number of commits: 268
+			, 
+			themsaid
+,			Profile URL: https://github.com/themsaid
+			Number of commits: 110
+			, 
+			JosephSilber
+0			Profile URL: https://github.com/JosephSilber
+			Number of commits: 85
+			, 
+			lucasmichot
+/			Profile URL: https://github.com/lucasmichot
+			Number of commits: 70
+			]
+%REPOSITORY NAME: phpseclib/phpseclib
+-	URL: https://github.com/phpseclib/phpseclib
+0	Description: PHP Secure Communications Library
+	Language: PHP
+	Stars: 1541
+	Commits: 2680
+	Top contributors: [
+			terrafrost
+.			Profile URL: https://github.com/terrafrost
+			Number of commits: 1613
+			, 
+				bantu
+)			Profile URL: https://github.com/bantu
+			Number of commits: 869
+			, 
+			petrich
++			Profile URL: https://github.com/petrich
+			Number of commits: 53
+			, 
+			GrahamCampbell
+2			Profile URL: https://github.com/GrahamCampbell
+			Number of commits: 24
+			, 
+			mpscholten
+.			Profile URL: https://github.com/mpscholten
+			Number of commits: 18
+			]
+,REPOSITORY NAME: thephpleague/oauth2-server
+4	URL: https://github.com/thephpleague/oauth2-server
+G	Description: A spec compliant, secure by default PHP OAuth 2.0 Server
+	Language: PHP
+	Stars: 3230
+	Commits: 1897
+	Top contributors: [
+			alexbilbie
+.			Profile URL: https://github.com/alexbilbie
+			Number of commits: 1686
+			, 
+			juliangut
+-			Profile URL: https://github.com/juliangut
+			Number of commits: 56
+			, 
+			Sephster
+,			Profile URL: https://github.com/Sephster
+			Number of commits: 44
+			, 
+
 			dhrrgn
-
-*			Profile URL: https://github.com/dhrrgn
-
-			Number of commits: 11
-
-			, 
-
-			GrahamCampbell
-
-2			Profile URL: https://github.com/GrahamCampbell
-
-			Number of commits: 10
-
-			]
-
-&REPOSITORY NAME: adobe/brackets-shell
-
-.	URL: https://github.com/adobe/brackets-shell
-
-9	Description: CEF3-based application shell for Brackets.
-
-	Language: Python
-
-	Stars: 1099
-
-	Commits: 1516
-
-	Top contributors: [
-
-			gruehle
-
-+			Profile URL: https://github.com/gruehle
-
-			Number of commits: 371
-
-			, 
-
-			jasonsanjose
-
-0			Profile URL: https://github.com/jasonsanjose
-
-			Number of commits: 231
-
-			, 
-
-			JeffryBooher
-
-0			Profile URL: https://github.com/JeffryBooher
-
-			Number of commits: 157
-
-			, 
-
-			redmunds
-
-,			Profile URL: https://github.com/redmunds
-
-			Number of commits: 146
-
-			, 
-
-			RaymondLim
-
-.			Profile URL: https://github.com/RaymondLim
-
-			Number of commits: 121
-
-			]
-
-&REPOSITORY NAME: ninjaframework/ninja
-
-.	URL: https://github.com/ninjaframework/ninja
-
-c	Description: Ninja is a full stack web framework for Java. Rock solid, fast and super productive.
-
-	Language: Java
-
-	Stars: 1746
-
-	Commits: 1373
-
-	Top contributors: [
-
-			raphaelbauer
-
-0			Profile URL: https://github.com/raphaelbauer
-
-			Number of commits: 856
-
-			, 
-
-			jjlauer
-
-+			Profile URL: https://github.com/jjlauer
-
-			Number of commits: 135
-
-			, 
-
-
+*			Profile URL: https://github.com/dhrrgn
+			Number of commits: 11
+			, 
+			GrahamCampbell
+2			Profile URL: https://github.com/GrahamCampbell
+			Number of commits: 10
+			]
+&REPOSITORY NAME: adobe/brackets-shell
+.	URL: https://github.com/adobe/brackets-shell
+9	Description: CEF3-based application shell for Brackets.
+	Language: Python
+	Stars: 1099
+	Commits: 1516
+	Top contributors: [
+			gruehle
++			Profile URL: https://github.com/gruehle
+			Number of commits: 371
+			, 
+			jasonsanjose
+0			Profile URL: https://github.com/jasonsanjose
+			Number of commits: 231
+			, 
+			JeffryBooher
+0			Profile URL: https://github.com/JeffryBooher
+			Number of commits: 157
+			, 
+			redmunds
+,			Profile URL: https://github.com/redmunds
+			Number of commits: 146
+			, 
+			RaymondLim
+.			Profile URL: https://github.com/RaymondLim
+			Number of commits: 121
+			]
+&REPOSITORY NAME: ninjaframework/ninja
+.	URL: https://github.com/ninjaframework/ninja
+c	Description: Ninja is a full stack web framework for Java. Rock solid, fast and super productive.
+	Language: Java
+	Stars: 1746
+	Commits: 1373
+	Top contributors: [
+			raphaelbauer
+0			Profile URL: https://github.com/raphaelbauer
+			Number of commits: 856
+			, 
+			jjlauer
++			Profile URL: https://github.com/jjlauer
+			Number of commits: 135
+			, 
+
 			jroper
-
-*			Profile URL: https://github.com/jroper
-
-			Number of commits: 55
-
-			, 
-
-			gitblit
-
-+			Profile URL: https://github.com/gitblit
-
-			Number of commits: 36
-
-			, 
-
-			jlannoy
-
-+			Profile URL: https://github.com/jlannoy
-
-			Number of commits: 36
-
-			]
-
-)REPOSITORY NAME: expressjs/expressjs.com
-
-1	URL: https://github.com/expressjs/expressjs.com
-
-	Description: No description.
-
-	Language: HTML
-
-	Stars: 1572
-
-	Commits: 1288
-
-	Top contributors: [
-
-			hacksparrow
-
-/			Profile URL: https://github.com/hacksparrow
-
-			Number of commits: 618
-
-			, 
-
-			tj
-
-&			Profile URL: https://github.com/tj
-
-			Number of commits: 118
-
-			, 
-
-			crandmck
-
-,			Profile URL: https://github.com/crandmck
-
-			Number of commits: 113
-
-			, 
-
-			gidenilson
-
-.			Profile URL: https://github.com/gidenilson
-
-			Number of commits: 84
-
-			, 
-
-			martinerko
-
-.			Profile URL: https://github.com/martinerko
-
-			Number of commits: 66
-
-			]
-
-#REPOSITORY NAME: openzipkin/zipkin
-
-+	URL: https://github.com/openzipkin/zipkin
-
-5	Description: Zipkin is a distributed tracing system
-
-	Language: Java
-
-	Stars: 7044
-
-	Commits: 1241
-
-	Top contributors: [
-
-			adriancole
-
-.			Profile URL: https://github.com/adriancole
-
-			Number of commits: 1061
-
-			, 
-
-
+*			Profile URL: https://github.com/jroper
+			Number of commits: 55
+			, 
+			gitblit
++			Profile URL: https://github.com/gitblit
+			Number of commits: 36
+			, 
+			jlannoy
++			Profile URL: https://github.com/jlannoy
+			Number of commits: 36
+			]
+)REPOSITORY NAME: expressjs/expressjs.com
+1	URL: https://github.com/expressjs/expressjs.com
+	Description: No description.
+	Language: HTML
+	Stars: 1572
+	Commits: 1288
+	Top contributors: [
+			hacksparrow
+/			Profile URL: https://github.com/hacksparrow
+			Number of commits: 618
+			, 
+			tj
+&			Profile URL: https://github.com/tj
+			Number of commits: 118
+			, 
+			crandmck
+,			Profile URL: https://github.com/crandmck
+			Number of commits: 113
+			, 
+			gidenilson
+.			Profile URL: https://github.com/gidenilson
+			Number of commits: 84
+			, 
+			martinerko
+.			Profile URL: https://github.com/martinerko
+			Number of commits: 66
+			]
+#REPOSITORY NAME: openzipkin/zipkin
++	URL: https://github.com/openzipkin/zipkin
+5	Description: Zipkin is a distributed tracing system
+	Language: Java
+	Stars: 7044
+	Commits: 1241
+	Top contributors: [
+			adriancole
+.			Profile URL: https://github.com/adriancole
+			Number of commits: 1061
+			, 
+
 			abesto
-
-*			Profile URL: https://github.com/abesto
-
-			Number of commits: 40
-
-			, 
-
-				dsyer
-
-)			Profile URL: https://github.com/dsyer
-
-			Number of commits: 24
-
-			, 
-
-			eirslett
-
-,			Profile URL: https://github.com/eirslett
-
-			Number of commits: 20
-
-			, 
-
-			cburroughs
-
-.			Profile URL: https://github.com/cburroughs
-
-			Number of commits: 11
-
-			]
-
-!REPOSITORY NAME: bobthecow/psysh
-
-)	URL: https://github.com/bobthecow/psysh
-
-	Description: A REPL for PHP
-
-	Language: PHP
-
-	Stars: 2189
-
-	Commits: 1078
-
-	Top contributors: [
-
-			bobthecow
-
--			Profile URL: https://github.com/bobthecow
-
-			Number of commits: 872
-
-			, 
-
-			GrahamCampbell
-
-2			Profile URL: https://github.com/GrahamCampbell
-
-			Number of commits: 45
-
-			, 
-
-			krageon
-
-+			Profile URL: https://github.com/krageon
-
-			Number of commits: 33
-
-			, 
-
-			zonuexe
-
-+			Profile URL: https://github.com/zonuexe
-
-			Number of commits: 28
-
-			, 
-
-				hason
-
-)			Profile URL: https://github.com/hason
-
-			Number of commits: 16
-
-			]
+*			Profile URL: https://github.com/abesto
+			Number of commits: 40
+			, 
+				dsyer
+)			Profile URL: https://github.com/dsyer
+			Number of commits: 24
+			, 
+			eirslett
+,			Profile URL: https://github.com/eirslett
+			Number of commits: 20
+			, 
+			cburroughs
+.			Profile URL: https://github.com/cburroughs
+			Number of commits: 11
+			]
+!REPOSITORY NAME: bobthecow/psysh
+)	URL: https://github.com/bobthecow/psysh
+	Description: A REPL for PHP
+	Language: PHP
+	Stars: 2189
+	Commits: 1078
+	Top contributors: [
+			bobthecow
+-			Profile URL: https://github.com/bobthecow
+			Number of commits: 872
+			, 
+			GrahamCampbell
+2			Profile URL: https://github.com/GrahamCampbell
+			Number of commits: 45
+			, 
+			krageon
++			Profile URL: https://github.com/krageon
+			Number of commits: 33
+			, 
+			zonuexe
++			Profile URL: https://github.com/zonuexe
+			Number of commits: 28
+			, 
+				hason
+)			Profile URL: https://github.com/hason
+			Number of commits: 16
+			]
