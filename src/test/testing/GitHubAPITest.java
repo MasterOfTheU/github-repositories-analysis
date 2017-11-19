@@ -28,11 +28,11 @@ public class GitHubAPITest {
     }
 
     @Test
-    public void uriIsValidMostCommited() throws IOException, URISyntaxException {
+    public void uriIsValidMostCommitted() throws IOException, URISyntaxException {
         GitHubAPI githubAPIEntity = new GitHubAPI();
         ByteArrayOutputStream outContent = new ByteArrayOutputStream();
         System.setOut(new PrintStream(outContent));
-        ArrayList<RepositoryInfo> repositories = githubAPIEntity.getMostCommittedRepos("2000006002", "2012006*/10");
+        githubAPIEntity.getMostCommittedRepos("2000006002", "2012006*/10");
         String expected = ("https://api.github.com/search/repositories?q=created%3A2000006002..2012006*%2F10\nObjects were not found in specified period of time.");
         String actualResult = outContent.toString().trim().replace("\r","");
         assertEquals(expected, actualResult);
@@ -43,7 +43,7 @@ public class GitHubAPITest {
         GitHubAPI githubAPIEntity = new GitHubAPI();
         ByteArrayOutputStream outContent = new ByteArrayOutputStream();
         System.setOut(new PrintStream(outContent));
-        ArrayList<RepositoryInfo> repositories = githubAPIEntity.getMostStarredRepos("00", "2012006*/10");
+        githubAPIEntity.getMostStarredRepos("00", "2012006*/10");
         String expected = ("https://api.github.com/search/repositories?q=created%3A00..2012006*%2F10\nObjects were not found in specified period of time.");
         outContent.reset();
         assertNotEquals(expected, outContent.toString());
