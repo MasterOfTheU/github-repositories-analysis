@@ -123,11 +123,10 @@ public class RepositoryInfoTest {
     @Test
     public void setAmountOfStars() throws NoSuchFieldException, IllegalAccessException {
         RepositoryInfo repositoryInfo = new RepositoryInfo();
+        repositoryInfo.setAmountOfStars(100);
         final Field field = repositoryInfo.getClass().getDeclaredField("amountOfStars");
         field.setAccessible(true);
-        field.set(repositoryInfo, 20);
-        int actualResult = repositoryInfo.getAmountOfStars();
-        assertEquals(20, actualResult);
+        assertEquals(100, field.get(repositoryInfo));
     }
 
     @Test
@@ -148,6 +147,12 @@ public class RepositoryInfoTest {
         final Field field = repositoryInfo.getClass().getDeclaredField("totalCommits");
         field.setAccessible(true);
         assertEquals(40, field.get(repositoryInfo));
+    }
+
+    @Test
+    public void constructorIsValid() {
+        RepositoryInfo repositoryInfo = new RepositoryInfo("testName", "testURL", "description","language",  12);
+        assertNotNull(repositoryInfo);
     }
 
 }

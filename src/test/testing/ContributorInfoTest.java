@@ -65,4 +65,9 @@ public class ContributorInfoTest {
         assertEquals(1, field.get(contributorInfo));
     }
 
+    @Test
+    public void constructorIsValid() {
+        ContributorInfo contributorInfo = new ContributorInfo("testName", "testUrl", 12);
+        assertNotNull(contributorInfo);
+    }
 }
